@@ -54,6 +54,7 @@
   **Email Address:** km_si@ymail.com
 
 Demo Links:
-![Untitled_ Feb 7, 2021 1_59 PM](https://user-images.githubusercontent.com/75001492/107157003-a2d2f800-694f-11eb-848f-6e7464f925b8.gif)  
-
-https://user-images.githubusercontent.com/75001492/107156904-fee94c80-694e-11eb-8fd5-2a207a46ef08.mp4
+	GIFFY Link:
+	![Untitled_ Feb 7, 2021 1_59 PM](https://user-images.githubusercontent.com/75001492/107157003-a2d2f800-694f-11eb-848f-6e7464f925b8.gif)  
+	MP4 Link:
+	https://user-images.githubusercontent.com/75001492/107156904-fee94c80-694e-11eb-8fd5-2a207a46ef08.mp4
